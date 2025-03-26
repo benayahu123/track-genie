@@ -24,7 +24,7 @@ A cross-platform mobile application designed to help users establish and maintai
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/benayahu123/track-genie
+git clone https://github.com/benayahu123/track-genie.git
 cd habit-tracker
 ```
 
